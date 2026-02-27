@@ -1,32 +1,38 @@
-
 <div align="center">
 
-# 🌌 Welcome to eryndel
+# 🌌 Welcome to the Eryndel Node
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ERYNDEL&fontSize=90&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=ERYNDEL&fontSize=80&animation=fadeIn&fontAlignY=50" />
 
-`System Status: Online` • `Focus: Fullstack Development` • `Location: Cyberspace`
+`Status: Active` • `Network: Self-Hosted` • `Environment: Production`
 
 ---
 
-### 🖥️ Workspace Environment
-| Component | Specification | Status |
+### 📡 Active Transmissions
+[![](https://img.shields.io/badge/DISCORD-Eryndelx-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![](https://img.shields.io/badge/MY_WEBSITE-Visit_Node-FF4B11?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eryndelx.duckdns.org/)
+
+---
+
+### 🖥️ Infrastructure Configuration
+| Module | Specification | Status |
 | :--- | :--- | :--- |
-| **OS** | Windows 11 Pro | 🟢 Stable |
-| **Hosting** | Web hosting | 🟢 Working |
-| **Theme** | ✨ Aesthetic |
+| **Domain** | eryndelx.duckdns.org | 🌐 Online |
+| **Host** | Self-Hosted Instance | 🔒 Encrypted |
+| **Stack** | Fullstack JavaScript/TypeScript | ⚡ Optimized |
+| **Tools** | Docker / Git / Linux | 🛠️ Deployed |
 
 ---
 
-### 📡 Transmission Frequencies
-[![](https://img.shields.io/badge/DISCORD-eryndel-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#)
-[![](https://img.shields.io/badge/LINKEDIN-eryndel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![https://eryndelx.duckdns.org](https://img.shields.io/badge/PORTFOLIO-eryndel.dev-FF4B11?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+### ⚡ Neural Network Skills
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,linux,docker,bash,postgres,tailwind" />
 
 ---
 
-### 📈 System Metrics
+### 📊 Network Metrics
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=eryndel&show_icons=true&theme=tokyonight&hide_border=true" alt="Eryndel's GitHub stats" />
+<br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=eryndel&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
