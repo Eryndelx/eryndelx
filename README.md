@@ -23,17 +23,4 @@
 | **Tools** | Docker / Git / Linux | 🛠️ Deployed |
 
 ---
-
-### ⚡ Neural Network Skills
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,linux,docker,bash,postgres,tailwind" />
-
----
-
-### 📊 Network Metrics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=eryndel&show_icons=true&theme=tokyonight&hide_border=true" alt="Eryndel's GitHub stats" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eryndel&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-
 </div>
