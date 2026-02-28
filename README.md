@@ -13,8 +13,7 @@ I'm passionate about building and exploring projects in tech. I love learning ne
 
 ## Projects
 Here are some of my highlighted projects:  
-- **Project Name** – Short description.  
-- **Another Project** – Short description.  
+- **Eryndelx Dev Site** – Eryndelx Dev Site is my own website hosted on my raspberry pi 3 B! I use it to experiment with development 
 
 *(More projects coming soon…)*
 
@@ -22,7 +21,7 @@ Here are some of my highlighted projects:
 
 ## Connect with Me
 - 🌐 Website: [eryndelx.duckdns.org](https://eryndelx.duckdns.org)  
-- 💼 LinkedIn / Twitter / Other links *(optional)*  
+- 🌐 Discord: Eryndelx
 
 ---
 
