@@ -1,16 +1,29 @@
-# Hi there 👋, I'm Eryndel
+# Hi there, I'm Eryndel 👋
 
-Welcome to my GitHub!  
+Welcome to my GitHub profile!  
 
-🌐 Check out my website: [eryndelx.duckdns.org](https://eryndelx.duckdns.org/)
-
----
-
-## 💻 About Me
-- 🔭 I work on personal experiments and ideas.
-- ⚡ Fun fact: I enjoy designing clean, interactive interfaces.
-- 📫 Reach me through my website's contact page.
+🌐 Check out my personal website: [eryndelx.duckdns.org](https://eryndelx.duckdns.org)  
 
 ---
 
-Thanks for stopping by! 🚀
+## About Me
+I'm passionate about building and exploring projects in tech. I love learning new skills and creating solutions that make a difference.  
+
+---
+
+## Projects
+Here are some of my highlighted projects:  
+- **Project Name** – Short description.  
+- **Another Project** – Short description.  
+
+*(More projects coming soon…)*
+
+---
+
+## Connect with Me
+- 🌐 Website: [eryndelx.duckdns.org](https://eryndelx.duckdns.org)  
+- 💼 LinkedIn / Twitter / Other links *(optional)*  
+
+---
+
+> "Strive not to be a success, but rather to be of value." – Albert Einstein
